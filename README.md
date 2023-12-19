@@ -1,6 +1,11 @@
 
 ### Threading & Concurrency 
 
-**Mutex vs semaphore**
-A mutex is a locking and unlocking mechanism, and a semaphore is a signaling mechanism. Both are used for critical section and mutual exclusion problems.
+### Debugging tools and techniques 
 
+1. Common Concurrency Problems
+    a. Race condition
+    b. Data Race
+    c. Deadlock
+    d. Priority inversion
+    e. Mutual Exclusion
