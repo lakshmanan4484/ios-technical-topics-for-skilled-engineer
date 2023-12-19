@@ -16,15 +16,28 @@
 ### Data Structure & Algorithms
 
 1. Searching
-   - AVL Tree
+   - AVL Tree | Self Balancing Binary Search Trees
    - Binary Search Tree (BST)
    - Binary Tree
    - Binary Search
    - Depth-Frist Search
    - Linear Search
-   - 
-  
-3. Sorting
+   - Z-Algorithm
+
+2. Listing
+   - Linked list
+        - Singly linked list
+        - Doubly linked list
+        - Reversing linked list
+   - Skip-List
+3. Queues
+   - Stack [Last-in, first-out]
+   - Queue [First-in, first-out]
+   - Deque [A double-ended queue]
+   - Priority Queue [A queue where the most important element is always at the front]
+   - Ring Buffer [Also known as a circular buffer. An array of a certain size that conceptually wraps around back to the beginning.]
+   
+4. Sorting
     - Basic Sort
         - Insertion Sort
         - Selection Sort
@@ -46,15 +59,10 @@
 
 ### MultiThreading & Concurrency 
 
-### Data Storage
-
-### iOS App Secure Development
-
-
-### UI/UX 
-
-1. SwiftUI
-2. UIKit
+1. GCD
+2. Operation Queue
+3. NSRunLoop
+4. Combine
 
 1. Common Concurrency Problems
     - Race condition
@@ -62,6 +70,24 @@
     - Deadlock
     - Priority inversion
     - Mutual Exclusion
+  
+
+### Data Storage
+
+### iOS App Secure Development
+
+### Memory Management
+
+1. Shallow & deep copying
+2. 
+
+
+### UI/UX 
+
+1. SwiftUI
+2. UIKit
+
+
 
 ### Debugging tools and techniques 
 
