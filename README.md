@@ -1,5 +1,6 @@
 
 ### Swift Programming
+
 1. Closures
 2. Generics
 3. Initializers
@@ -131,14 +132,36 @@
 ### MultiThreading & Concurrency 
 
 1. GCD
-2. Operation Queue
-3. NSRunLoop
-4. Combine
-5. NSThread
-6. NSLock, NSConditionLock
+   - Queues and Tasks
+     - DispatchQueue
+     - DispatchWorkItem
+     - DispatchGroup
+     - Workloop
+   - System Event Monitoring
+     - DispatchSource
+     - DispatchIO
+     - DispatchData
+     - DispatchDataIterator
+     - DispatchSourceProtocol
+   - Thread Scheduling
+     - DispatchQoS
+3. Task Management
+   - Operations - Operation, Operation Queue & BlockOperation
+   - Scheduling - Timer
+   - System Interaction - ProcessInfo & NSBackgroundActivityScheduler
+   - Progress - ProgressReporting & NSProgress
+
+   
+
+  
+4. 
+5. NSRunLoop
+6. Combine
+7. NSThread
+8. NSLock, NSConditionLock
 
 
-7. Common Concurrency Problems
+9. Common Concurrency Problems
     - Race condition
     - Data Race
     - Deadlock
@@ -149,6 +172,14 @@
 ### Data Storage
 
 ### iOS App Secure Development
+1. Keychain
+2. Secure Enclave
+3. Network Security
+    - App Transport Security (ATS)
+    - Transport Layer Security (TLS)
+
+
+
 
 ### Memory Management
 
@@ -181,7 +212,13 @@
 
 ### Debugging tools and techniques 
 
-1. Unit Testing
+1. Exception Handling
+   - Zombies
+2. Monitoring
+   - Instruments - Leaks, Time profiler, Allocations
+   - Activity monitor
+   - Charles: request/response. Mock, rewrite http data etc...
+3. Unit Testing
    - OCMock
    
 
