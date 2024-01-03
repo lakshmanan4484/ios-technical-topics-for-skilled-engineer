@@ -9,6 +9,9 @@
 6. Enums
 7. Runtime
 8. Method dispatch
+9. Mixing Swift and C++
+
+10. 
 ### Objective-C Programming
 
 ### iOS Technology 
@@ -79,10 +82,6 @@
       - NSSecureUnarchiveFromDataTransformer
       - PropertyListEncoder, PropertyListDecoder and PropertyListSerialization
       - XML Processing and Modeling
-
-
-
-
 
 
 ### Data Structure & Algorithms
@@ -178,7 +177,14 @@
     - App Transport Security (ATS)
     - Transport Layer Security (TLS)
 
-
+4. Reverse Engineering
+5. App Tampering
+6. App Spoofing
+7. Screen Mirroring
+8. Malware/ Trojans
+9. MiTM attacks
+10. Unsecured Wi-Fi
+11. Man-In-The-Middle Attacks
 
 
 ### Memory Management
