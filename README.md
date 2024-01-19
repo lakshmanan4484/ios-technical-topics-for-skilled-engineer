@@ -11,7 +11,6 @@
 8. Method dispatch
 9. Mixing Swift and C++
 
-10. 
 ### Objective-C Programming
 
 ### iOS Technology 
