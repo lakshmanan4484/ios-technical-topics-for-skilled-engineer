@@ -1,15 +1,7 @@
 
 ### Swift Programming
 
-1. Closures
-2. Generics
-3. Initializers
-4. Protocols
-5. Struct
-6. Enums
-7. Runtime
-8. Method dispatch
-9. Mixing Swift and C++
+Closures, Generics, Initializers, Protocols, Struct, Enums, Runtime, Method dispatch, Mixing Swift and C++
 
 ### Objective-C Programming
 
@@ -18,7 +10,6 @@
 1. Application Life cycle
 2. UIApplication
 3. UIApplication: States
-
 
 ### Design Pattern
 1. Creational
